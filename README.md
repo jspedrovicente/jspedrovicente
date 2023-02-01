@@ -1,4 +1,7 @@
-### Hi there 👋
+### :house: Welcome to my profile :house:
+
+My name is José and I am a Front-End Developer :wink:
+
 
 <!--
 **jspedrovicente/jspedrovicente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
