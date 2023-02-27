@@ -1,7 +1,7 @@
 ### :house: Welcome to my profile :house:
 
 ## :wave: About Me:
-My name is Jose Vicente, I am a Front-End Developer. I have been studying programming for over a year. I am fluent in Portuguese and in English.
+My name is Jose Vicente, I am a Front-End Developer. I work as a front-end Developer. I am fluent in Portuguese and in English.
 I reside in Brazil.
 Feel free to take a look at my project on my github repo!
 
